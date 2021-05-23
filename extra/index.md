@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Extra Page
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About Me
+  key: Extra Page
   order: 3
 ---
 
